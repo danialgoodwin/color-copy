@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAN8</Machine>
+    <WindowsUser>Danial</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>6150EA59C7B7900E6F8644013491D2EE691319037EAC39C1E5C74301327C70DC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>11282SimplyAdvanced.ColorCopy_1.0.0.0_neutral__1zsx0rfr60t8w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>11282SimplyAdvanced.ColorCopy_1zsx0rfr60t8w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>11282SimplyAdvanced.ColorCopy</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=A76D225B-FC63-49EC-B43E-59C8DF48368A</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-28T04:39:29.516</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Debug\ColorCopy.exe">
+      <PackagePath>ColorCopy.exe</PackagePath>
+      <Modified>2012-12-28T05:27:23.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Debug\ColorCopy.pdb">
+      <PackagePath>ColorCopy.pdb</PackagePath>
+      <Modified>2012-12-28T05:27:23.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\applause-large-crowd.mp3">
+      <PackagePath>Assets\applause-large-crowd.mp3</PackagePath>
+      <Modified>2012-12-28T03:26:08.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano114.mp3">
+      <PackagePath>Assets\Piano114.mp3</PackagePath>
+      <Modified>2012-12-28T04:31:51.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano12.mp3">
+      <PackagePath>Assets\Piano12.mp3</PackagePath>
+      <Modified>2012-12-28T04:31:51.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano16.mp3">
+      <PackagePath>Assets\Piano16.mp3</PackagePath>
+      <Modified>2012-12-28T04:31:51.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano19.mp3">
+      <PackagePath>Assets\Piano19.mp3</PackagePath>
+      <Modified>2012-12-28T04:31:51.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\shiny-ding.mp3">
+      <PackagePath>Assets\shiny-ding.mp3</PackagePath>
+      <Modified>2012-12-28T03:13:11.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-28T04:56:00.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-28T05:31:09.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-28T04:54:41.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-28T04:56:31.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-12-26T23:28:24.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-12-26T23:26:18.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-12-28T05:27:19.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-28T04:39:29.410</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

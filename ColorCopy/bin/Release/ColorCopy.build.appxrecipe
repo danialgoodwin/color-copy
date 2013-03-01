@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAN8</Machine>
+    <WindowsUser>Danial</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Release\ColorCopy.exe">
+      <PackagePath>ColorCopy.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Release\ColorCopy.pdb">
+      <PackagePath>ColorCopy.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\applause-large-crowd.mp3">
+      <PackagePath>Assets\applause-large-crowd.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano114.mp3">
+      <PackagePath>Assets\Piano114.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano12.mp3">
+      <PackagePath>Assets\Piano12.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano16.mp3">
+      <PackagePath>Assets\Piano16.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Piano19.mp3">
+      <PackagePath>Assets\Piano19.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\shiny-ding.mp3">
+      <PackagePath>Assets\shiny-ding.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Danial\Documents\Programming\Windows 8\Apps\ColorCopy\ColorCopy\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
